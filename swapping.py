@@ -7,4 +7,3 @@ b=a-b
 a=a-b
 print("after swapping")
 print(a,b)
-print("hiiiiiii swapped  variables")
